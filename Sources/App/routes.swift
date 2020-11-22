@@ -2,7 +2,7 @@ import Vapor
 
 var urls: [String] = [
     "https://odisseylife.com/charcoal/",
-    "https://www.emag.ro/monitor-led-ips-philips-28-4k-uhd-60hz-adaptive-sync-hdmi-displayport-288e2a-00/pd/DZBH32MBM/"
+    "https://activatedcharcoalwhitening.com/landing2/"
 ]
 
 var currentIndex = 0
